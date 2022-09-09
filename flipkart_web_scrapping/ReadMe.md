@@ -1,4 +1,4 @@
-flipkart_data_scraper.ipynb is a programm that helps to scrap data from flipkart for any given product type for the given fields mentioned below --
+flipkart_data_scraper.ipynb is a program that helps to scrap data from flipkart for any given product type for the given fields mentioned below --
 1. Price of the product (int)
 2. Name of the product (string)
 3. Rating (float)
@@ -9,4 +9,4 @@ flipkart_data_scraper.ipynb is a programm that helps to scrap data from flipkart
 
 There is a csv file in this folder, holds data for the search word 'laptop' in flipkart website. 
 
-[Note : More fields are to been addeded soon. Programm will update as well as the csv file]
+[Note : More fields are to been addeded soon. Program will update as well as the csv file]
